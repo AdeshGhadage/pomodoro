@@ -11,6 +11,7 @@ This application helps users implement the Pomodoro Technique by providing a cus
 - Timer with fixed durations for work and break periods.
 - Start and reset the timer.
 - After completing 4 Pomodoro sessions, a longer break period is initiated.
+![Screenshot from 2024-05-03 20-05-05](https://github.com/AdeshGhadage/pomodoro/assets/110734052/9446e58e-57f0-479b-b3a6-8f0e9488eab5)
 
 ## Installation
 
