@@ -1,0 +1,39 @@
+# Pomodoro Project
+
+## Description
+The Pomodoro Project is a time management technique that uses a timer to break work into intervals, traditionally 25 minutes in length, separated by short breaks. This project aims to provide a Pomodoro timer application with customizable settings.
+
+## Features
+- Timer functionality with adjustable work and break durations
+- Start, pause, and reset timer controls
+- Visual and audio notifications for timer events
+- Track and display completed Pomodoro cycles
+- Customizable settings for timer durations and notifications
+
+## Installation
+1. Clone the repository: `git clone https://github.com/your-username/pomodoro-project.git`
+2. Navigate to the project directory: `cd pomodoro-project`
+3. Install the required dependencies: `pip install -r requirements.txt`
+
+## Usage
+1. Run the application: `python pomodoro.py`
+2. Set your desired work and break durations.
+3. Click the "Start" button to begin the timer.
+4. Take breaks and resume work as indicated by the timer.
+5. Repeat the Pomodoro cycles as needed.
+
+## Contributing
+Contributions are welcome! If you would like to contribute to this project, please follow these steps:
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/your-feature`
+3. Make your changes and commit them: `git commit -m 'Add your feature'`
+4. Push to the branch: `git push origin feature/your-feature`
+5. Submit a pull request.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgements
+- [Pomodoro Technique](https://francescocirillo.com/pages/pomodoro-technique)
+- [Python](https://www.python.org/)
+- [Tkinter](https://docs.python.org/3/library/tkinter.html)
