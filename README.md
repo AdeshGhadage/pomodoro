@@ -18,7 +18,7 @@ This application helps users implement the Pomodoro Technique by providing a cus
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/pomodoro-timer.git
+    git clone https://github.com/AdeshGhadage/pomodoro.git
     ```
 
 2. Install dependencies (if any):
